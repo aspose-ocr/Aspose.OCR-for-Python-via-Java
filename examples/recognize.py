@@ -18,7 +18,7 @@ filters.add(ocr.PreprocessingFilter.invert())
 
 ''' initialize image collection and put images into it '''
 input = ocr.OcrInput(ocr.InputType.SINGLE_IMAGE, filters)
-input.add('D://imgs/10.png')
+input.add('10.png')
 
 
 ''' change recognition options if you need '''
