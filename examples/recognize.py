@@ -1,9 +1,8 @@
 import aspose as ocr
 
-
 ''' set license '''
 
-#lic = ocr.license.License()
+lic = ocr.license.License()
 #lic.set_license('path')
 
 
