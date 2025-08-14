@@ -34,196 +34,6 @@ Directory | Description
 
 Aspose.OCR can recognize a large number of languages and all popular writing scripts, including texts with mixed languages.
 
-## Supported Languages
-
-Aspose.OCR for Python via Java supports 140+ languages based on Latin, Cyrillic, Asian, Arabic, and other scripts, including:
-
-### Latin-based Languages
-- **English (ENG)** - English alphabet
-- **German (DEU)** - German alphabet
-- **Portuguese (POR)** - Portuguese alphabet
-- **Spanish (SPA)** - Spanish alphabet
-- **French (FRA)** - French alphabet
-- **Italian (ITA)** - Italian alphabet
-- **Czech (CES)** - Czech alphabet
-- **Danish (DAN)** - Danish alphabet
-- **Dutch (NLD)** - Dutch alphabet
-- **Estonian (EST)** - Estonian alphabet
-- **Finnish (FIN)** - Finnish alphabet
-- **Latvian (LAV)** - Latvian alphabet
-- **Lithuanian (LIT)** - Lithuanian alphabet
-- **Norwegian (NOR)** - Norwegian alphabet
-- **Polish (POL)** - Polish alphabet
-- **Romanian (RON)** - Romanian alphabet
-- **Serbo-Croatian (HBS)** - Serbo-Croatian alphabet
-- **Slovak (SLK)** - Slovak alphabet
-- **Slovene (SLV)** - Slovene alphabet
-- **Swedish (SWE)** - Swedish alphabet
-- **Hungarian (HUN)** - Hungarian alphabet
-- **Turkish (TUR)** - Turkish alphabet
-- **Indonesian (IND)** - Indonesian alphabet
-- **Vietnamese (VIE)** - Vietnamese alphabet
-- **Catalan (CAT)** - Catalan alphabet
-- **Afrikaans (AFR)** - Afrikaans alphabet
-- **Albanian (ALN)** - Albanian alphabet
-- **Galician (GLG)** - Galician alphabet
-- **Low German (NDS)** - Low German alphabet
-
-### Cyrillic-based Languages
-- **Belorussian (BEL)** - Belorussian alphabet
-- **Bulgarian (BUL)** - Bulgarian alphabet
-- **Kazakh (KAZ)** - Kazakh alphabet
-- **Russian (RUS)** - Russian alphabet
-- **Serbian (SRP)** - Serbian alphabet
-- **Ukrainian (UKR)** - Ukrainian alphabet
-- **Bosnian (BOS)** - Bosnian alphabet
-- **Croatian (HRV)** - Croatian alphabet
-- **Chechen (CHE)** - Chechen alphabet
-- **Kabardian (KBD)** - Kabardian alphabet
-
-### Asian Languages
-- **Chinese (CHINESE)** - Universal Chinese recognition
-- **Mandarin (CMN)** - Mandarin Chinese alphabet
-- **Cantonese (YUE)** - Cantonese alphabet
-- **Min Nan (NAN)** - Min Nan alphabet
-- **Hakka (HAK)** - Hakka alphabet
-- **Gan (GAN)** - Gan alphabet
-- **Min Bei (MNP)** - Min Bei alphabet
-- **Min Dong (CDO)** - Min Dong alphabet
-- **Pu-Xian (CPX)** - Pu-Xian alphabet
-- **Korean (KOR)** - Korean alphabet
-- **Japanese (JPN)** - Japanese alphabet
-- **Vietnamese (VIE)** - Vietnamese alphabet
-
-### Indic Languages
-- **Hindi (HIN)** - Hindi alphabet
-- **Marathi (MAR)** - Marathi alphabet
-- **Bhojpuri (BHO)** - Bhojpuri alphabet
-- **Maithili (MAI)** - Maithili alphabet
-- **Awadhi (AWA)** - Awadhi alphabet
-- **Magahi (MAG)** - Magahi alphabet
-- **Haryanvi (BGC)** - Haryanvi alphabet
-- **Chattisgarhi (HNE)** - Chattisgarhi alphabet
-- **Dhundari (DHD)** - Dhundari alphabet
-- **Kanauji (BJJ)** - Kanauji alphabet
-- **Kumauni (KFY)** - Kumauni alphabet
-- **Garhwali (GBM)** - Garhwali alphabet
-- **Lamani (LMN)** - Lamani alphabet
-- **Rajbanshi (RJB)** - Rajbanshi alphabet
-- **Marwari (RWR)** - Marwari alphabet
-- **Tamil (TAM)** - Tamil alphabet
-- **Telugu (TEL)** - Telugu alphabet
-- **Kannada (KAN)** - Kannada alphabet
-- **Nepali (NEP)** - Nepali alphabet
-- **Konkani (KNN)** - Konkani alphabet
-- **Malayalam (MLY)** - Malay alphabet
-- **Sundanese (SUN)** - Sundanese alphabet
-- **Tagalog (TGL)** - Tagalog alphabet
-- **Cebuano (CEB)** - Cebuano alphabet
-- **Ilocano (ILO)** - Ilocano alphabet
-- **Hiligaynon (HIL)** - Hiligaynon alphabet
-- **Kapampangan (PAM)** - Kapampangan alphabet
-- **Pangasinan (PAG)** - Pangasinan alphabet
-- **Waray-Waray (WAR)** - Waray-Waray alphabet
-- **Bikol (BCL)** - Bikol alphabet
-- **Palembang (PLM)** - Palembang alphabet
-- **Musi (MUI)** - Musi alphabet
-- **Minangkabau (MIN)** - Minangkabau alphabet
-- **Sasak (SAS)** - Sasak alphabet
-- **Makassar (MAK)** - Makassar alphabet
-- **Betawi (BEW)** - Betawi alphabet
-
-### African Languages
-- **Hausa (HAU)** - Hausa alphabet
-- **Swahili (SWH)** - Swahili alphabet
-- **Yoruba (YOR)** - Yoruba alphabet
-- **Oromo (GAX)** - Oromo alphabet
-- **Malagasy (BHR)** - Malagasy alphabet
-- **Somali (SOM)** - Somali alphabet
-- **Zulu (ZUL)** - Zulu alphabet
-- **Xhosa (XHO)** - Xhosa alphabet
-- **Tswana (TSN)** - Tswana alphabet
-- **Sotho (SOT)** - Sotho alphabet
-- **Ndebele (NBL)** - Ndebele alphabet
-- **Swati (SSW)** - Swati alphabet
-- **Tsonga (TSO)** - Tsonga alphabet
-- **Venda (VND)** - Venda alphabet
-- **Chichewa (NYA)** - Chichewa alphabet
-- **Rwanda (KIN)** - Rwanda alphabet
-- **Tumbuka (TUM)** - Tumbuka alphabet
-- **Bemba (BEM)** - Bemba alphabet
-- **Nandi (KLN)** - Nandi alphabet
-- **Umbundu (UMB)** - Umbundu alphabet
-- **Northern Sotho (NSO)** - Northern Sotho alphabet
-- **Yao (YAO)** - Yao alphabet
-- **Gusii (GUZ)** - Gusii alphabet
-- **Meru (MER)** - Meru alphabet
-- **Wolaytta (WAL)** - Wolaytta alphabet
-- **Luo (LUO)** - Luo alphabet
-- **Sukuma (SUK)** - Sukuma alphabet
-- **Kikongo (KON)** - Kikongo alphabet
-- **Makua (VMW)** - Makua alphabet
-- **Kanuri (KNC)** - Kanuri alphabet
-- **Serer-Sine (SRR)** - Serer-Sine alphabet
-- **Tonga (TOI)** - Tonga alphabet
-- **Luguru (RUF)** - Luguru alphabet
-- **Shona (SNA)** - Shona alphabet
-- **Mewati (WTM)** - Mewati alphabet
-
-### Middle Eastern Languages
-- **Arabic (ARA)** - Arabic alphabet
-- **Persian (PES)** - Persian (Farsi) alphabet
-- **Urdu (URD)** - Urdu alphabet
-- **Uyghur (UIG)** - Uyghur alphabet
-- **Kurdish (KMR)** - Kurdish (Kurmanji) alphabet
-- **Azerbaijani (AZB)** - Azerbaijani (Azeri) alphabet
-- **Turkmen (TUK)** - Turkmen alphabet
-- **Gilaki (GLK)** - Gilaki alphabet
-- **Dimli (DIQ)** - Dimli alphabet
-
-### Other Languages
-- **Mongolian (MON)** - Mongolian alphabet
-- **Quechua (QXA)** - Quechua alphabet
-- **Hmong (HMN)** - Hmong alphabet
-- **Occitan (LNC)** - Occitan alphabet
-- **Muong (MTQ)** - Muong alphabet
-- **K'iche' (QUC)** - K'iche' alphabet
-- **Malvi (MUP)** - Malvi alphabet
-- **Mewari (MTR)** - Mewari alphabet
-- **Wagdi (WBR)** - Wagdi alphabet
-- **Dong (DOC)** - Dong alphabet
-- **Bouyei (PCC)** - Bouyei alphabet
-- **Zhuang (CCX)** - Zhuang alphabet
-- **Tumbuka (TUM)** - Tumbuka alphabet
-- **Chichewa (NYA)** - Chichewa alphabet
-- **Rwanda (KIN)** - Rwanda alphabet
-- **Zulu (ZUL)** - Zulu alphabet
-- **Xhosa (XHO)** - Xhosa alphabet
-- **Tswana (TSN)** - Tswana alphabet
-- **Sotho (SOT)** - Sotho alphabet
-- **Ndebele (NBL)** - Ndebele alphabet
-- **Swati (SSW)** - Swati alphabet
-- **Tsonga (TSO)** - Tsonga alphabet
-- **Venda (VND)** - Venda alphabet
-- **Bemba (BEM)** - Bemba alphabet
-- **Nandi (KLN)** - Nandi alphabet
-- **Umbundu (UMB)** - Umbundu alphabet
-- **Northern Sotho (NSO)** - Northern Sotho alphabet
-- **Yao (YAO)** - Yao alphabet
-- **Gusii (GUZ)** - Gusii alphabet
-- **Meru (MER)** - Meru alphabet
-- **Wolaytta (WAL)** - Wolaytta alphabet
-- **Luo (LUO)** - Luo alphabet
-- **Sukuma (SUK)** - Sukuma alphabet
-- **Kikongo (KON)** - Kikongo alphabet
-- **Makua (VMW)** - Makua alphabet
-- **Kanuri (KNC)** - Kanuri alphabet
-- **Serer-Sine (SRR)** - Serer-Sine alphabet
-- **Tonga (TOI)** - Tonga alphabet
-- **Luguru (RUF)** - Luguru alphabet
-- **Shona (SNA)** - Shona alphabet
-- **Mewati (WTM)** - Mewati alphabet
-
 ## Load Images for OCR
 
 **Raster Formats:** JPEG, PNG, GIF, BMP, TIFF
@@ -414,6 +224,312 @@ We welcome contributions! Please feel free to submit issues, feature requests, o
 - **Documentation:** [Aspose.OCR for Python via Java Documentation](https://docs.aspose.com/ocr/python-java/)
 - **Forum:** [Aspose.OCR Forum](https://forum.aspose.com/c/ocr)
 - **Examples:** [GitHub Examples Repository](https://github.com/aspose-ocr/Aspose.OCR-for-Python-via-Java)
+
+## Additional Examples
+
+### Multi-language Text Recognition
+
+```python
+import aspose as ocr
+
+# Initialize OCR API
+api = ocr.AsposeOcr()
+
+# Set recognition settings for multiple languages
+settings = ocr.RecognitionSettings()
+settings.set_language(ocr.Language.AUTO) 
+
+# Create input with settings
+input = ocr.OcrInput(ocr.InputType.SINGLE_IMAGE)
+input.add('Data/OCR/multilingual_text.png')
+
+# Perform recognition
+result = api.recognize(input, settings)
+print("Recognized text:", result[0].recognition_text)
+```
+
+### Table Structure Recognition
+
+```python
+import aspose as ocr
+
+# Initialize OCR API
+api = ocr.AsposeOcr()
+
+# Configure settings for table recognition
+settings = ocr.RecognitionSettings()
+settings.set_detect_areas_mode(ocr.DetectAreasMode.TABLE)
+
+# Process table image
+input = ocr.OcrInput(ocr.InputType.SINGLE_IMAGE)
+input.add('Data/OCR/table.png')
+
+# Recognize table structure
+result = api.recognize(input, settings)
+
+```
+
+### Document Preprocessing with Filters
+
+```python
+import aspose as ocr
+
+# Initialize OCR API
+api = ocr.AsposeOcr()
+
+# Create preprocessing filters
+filters = ocr.PreprocessingFilter()
+filters.add(ocr.PreprocessingFilter.auto_denoising())  # Remove noise
+filters.add(ocr.PreprocessingFilter.contrast(10))      # Enhance contrast
+filters.add(ocr.PreprocessingFilter.scale(1.5))        # Scale image
+
+# Apply filters to input
+input = ocr.OcrInput(ocr.InputType.SINGLE_IMAGE, filters)
+input.add('Data/OCR/low_quality_document.jpg')
+
+# Recognize with enhanced preprocessing
+result = api.recognize(input)
+print("Enhanced recognition result:", result[0].recognition_text)
+```
+
+### Batch Processing with Progress Tracking
+
+```python
+import aspose as ocr
+import os
+
+# Initialize OCR API
+api = ocr.AsposeOcr()
+
+# Get all images from directory
+image_dir = "Data/OCR/batch_images/"
+image_files = [f for f in os.listdir(image_dir) if f.lower().endswith(('.png', '.jpg', '.jpeg'))]
+
+# Create input collection for batch processing
+input = ocr.OcrInput(ocr.InputType.SINGLE_IMAGE)
+
+# Add all images to the input collection
+for i, image_file in enumerate(image_files, 1):
+    print(f"Adding {i}/{len(image_files)}: {image_file}")
+    input.add(os.path.join(image_dir, image_file))
+
+# Process all images in batch
+print("Processing images...")
+result = api.recognize(input)
+
+# Save results using the API's save method
+# Save as plain text
+result.save("batch_results.txt", ocr.Format.TEXT)
+
+# Save as JSON format
+result.save("batch_results.json", ocr.Format.JSON)
+
+# Save as XML format  
+result.save("batch_results.xml", ocr.Format.XML)
+
+# Save as DOCX document
+result.save("batch_results.docx", ocr.Format.DOCX)
+
+# Save as PDF with original images as background
+result.save_pdf("batch_results.pdf", "", ocr.PdfOptimizationMode.NONE)
+
+print("Results saved in multiple formats:")
+print("- batch_results.txt (plain text)")
+print("- batch_results.json (JSON)")
+print("- batch_results.xml (XML)")
+print("- batch_results.docx (Word document)")
+print("- batch_results.pdf (searchable PDF)")
+```
+
+## Supported Languages
+
+Aspose.OCR for Python via Java supports 140+ languages based on Latin, Cyrillic, Asian, Arabic, and other scripts, including:
+
+### Latin-based Languages
+- **English (ENG)** - English alphabet
+- **German (DEU)** - German alphabet
+- **Portuguese (POR)** - Portuguese alphabet
+- **Spanish (SPA)** - Spanish alphabet
+- **French (FRA)** - French alphabet
+- **Italian (ITA)** - Italian alphabet
+- **Czech (CES)** - Czech alphabet
+- **Danish (DAN)** - Danish alphabet
+- **Dutch (NLD)** - Dutch alphabet
+- **Estonian (EST)** - Estonian alphabet
+- **Finnish (FIN)** - Finnish alphabet
+- **Latvian (LAV)** - Latvian alphabet
+- **Lithuanian (LIT)** - Lithuanian alphabet
+- **Norwegian (NOR)** - Norwegian alphabet
+- **Polish (POL)** - Polish alphabet
+- **Romanian (RON)** - Romanian alphabet
+- **Serbo-Croatian (HBS)** - Serbo-Croatian alphabet
+- **Slovak (SLK)** - Slovak alphabet
+- **Slovene (SLV)** - Slovene alphabet
+- **Swedish (SWE)** - Swedish alphabet
+- **Hungarian (HUN)** - Hungarian alphabet
+- **Turkish (TUR)** - Turkish alphabet
+- **Indonesian (IND)** - Indonesian alphabet
+- **Vietnamese (VIE)** - Vietnamese alphabet
+- **Catalan (CAT)** - Catalan alphabet
+- **Afrikaans (AFR)** - Afrikaans alphabet
+- **Albanian (ALN)** - Albanian alphabet
+- **Galician (GLG)** - Galician alphabet
+- **Low German (NDS)** - Low German alphabet
+
+### Cyrillic-based Languages
+- **Belorussian (BEL)** - Belorussian alphabet
+- **Bulgarian (BUL)** - Bulgarian alphabet
+- **Kazakh (KAZ)** - Kazakh alphabet
+- **Russian (RUS)** - Russian alphabet
+- **Serbian (SRP)** - Serbian alphabet
+- **Ukrainian (UKR)** - Ukrainian alphabet
+- **Bosnian (BOS)** - Bosnian alphabet
+- **Croatian (HRV)** - Croatian alphabet
+- **Chechen (CHE)** - Chechen alphabet
+- **Kabardian (KBD)** - Kabardian alphabet
+
+### Asian Languages
+- **Chinese (CHINESE)** - Universal Chinese recognition
+- **Mandarin (CMN)** - Mandarin Chinese alphabet
+- **Cantonese (YUE)** - Cantonese alphabet
+- **Min Nan (NAN)** - Min Nan alphabet
+- **Hakka (HAK)** - Hakka alphabet
+- **Gan (GAN)** - Gan alphabet
+- **Min Bei (MNP)** - Min Bei alphabet
+- **Min Dong (CDO)** - Min Dong alphabet
+- **Pu-Xian (CPX)** - Pu-Xian alphabet
+- **Korean (KOR)** - Korean alphabet
+- **Japanese (JPN)** - Japanese alphabet
+- **Vietnamese (VIE)** - Vietnamese alphabet
+
+### Indic Languages
+- **Hindi (HIN)** - Hindi alphabet
+- **Marathi (MAR)** - Marathi alphabet
+- **Bhojpuri (BHO)** - Bhojpuri alphabet
+- **Maithili (MAI)** - Maithili alphabet
+- **Awadhi (AWA)** - Awadhi alphabet
+- **Magahi (MAG)** - Magahi alphabet
+- **Haryanvi (BGC)** - Haryanvi alphabet
+- **Chattisgarhi (HNE)** - Chattisgarhi alphabet
+- **Dhundari (DHD)** - Dhundari alphabet
+- **Kanauji (BJJ)** - Kanauji alphabet
+- **Kumauni (KFY)** - Kumauni alphabet
+- **Garhwali (GBM)** - Garhwali alphabet
+- **Lamani (LMN)** - Lamani alphabet
+- **Rajbanshi (RJB)** - Rajbanshi alphabet
+- **Marwari (RWR)** - Marwari alphabet
+- **Tamil (TAM)** - Tamil alphabet
+- **Telugu (TEL)** - Telugu alphabet
+- **Kannada (KAN)** - Kannada alphabet
+- **Nepali (NEP)** - Nepali alphabet
+- **Konkani (KNN)** - Konkani alphabet
+- **Malayalam (MLY)** - Malay alphabet
+- **Sundanese (SUN)** - Sundanese alphabet
+- **Tagalog (TGL)** - Tagalog alphabet
+- **Cebuano (CEB)** - Cebuano alphabet
+- **Ilocano (ILO)** - Ilocano alphabet
+- **Hiligaynon (HIL)** - Hiligaynon alphabet
+- **Kapampangan (PAM)** - Kapampangan alphabet
+- **Pangasinan (PAG)** - Pangasinan alphabet
+- **Waray-Waray (WAR)** - Waray-Waray alphabet
+- **Bikol (BCL)** - Bikol alphabet
+- **Palembang (PLM)** - Palembang alphabet
+- **Musi (MUI)** - Musi alphabet
+- **Minangkabau (MIN)** - Minangkabau alphabet
+- **Sasak (SAS)** - Sasak alphabet
+- **Makassar (MAK)** - Makassar alphabet
+- **Betawi (BEW)** - Betawi alphabet
+
+### African Languages
+- **Hausa (HAU)** - Hausa alphabet
+- **Swahili (SWH)** - Swahili alphabet
+- **Yoruba (YOR)** - Yoruba alphabet
+- **Oromo (GAX)** - Oromo alphabet
+- **Malagasy (BHR)** - Malagasy alphabet
+- **Somali (SOM)** - Somali alphabet
+- **Zulu (ZUL)** - Zulu alphabet
+- **Xhosa (XHO)** - Xhosa alphabet
+- **Tswana (TSN)** - Tswana alphabet
+- **Sotho (SOT)** - Sotho alphabet
+- **Ndebele (NBL)** - Ndebele alphabet
+- **Swati (SSW)** - Swati alphabet
+- **Tsonga (TSO)** - Tsonga alphabet
+- **Venda (VND)** - Venda alphabet
+- **Chichewa (NYA)** - Chichewa alphabet
+- **Rwanda (KIN)** - Rwanda alphabet
+- **Tumbuka (TUM)** - Tumbuka alphabet
+- **Bemba (BEM)** - Bemba alphabet
+- **Nandi (KLN)** - Nandi alphabet
+- **Umbundu (UMB)** - Umbundu alphabet
+- **Northern Sotho (NSO)** - Northern Sotho alphabet
+- **Yao (YAO)** - Yao alphabet
+- **Gusii (GUZ)** - Gusii alphabet
+- **Meru (MER)** - Meru alphabet
+- **Wolaytta (WAL)** - Wolaytta alphabet
+- **Luo (LUO)** - Luo alphabet
+- **Sukuma (SUK)** - Sukuma alphabet
+- **Kikongo (KON)** - Kikongo alphabet
+- **Makua (VMW)** - Makua alphabet
+- **Kanuri (KNC)** - Kanuri alphabet
+- **Serer-Sine (SRR)** - Serer-Sine alphabet
+- **Tonga (TOI)** - Tonga alphabet
+- **Luguru (RUF)** - Luguru alphabet
+- **Shona (SNA)** - Shona alphabet
+- **Mewati (WTM)** - Mewati alphabet
+
+### Middle Eastern Languages
+- **Arabic (ARA)** - Arabic alphabet
+- **Persian (PES)** - Persian (Farsi) alphabet
+- **Urdu (URD)** - Urdu alphabet
+- **Uyghur (UIG)** - Uyghur alphabet
+- **Kurdish (KMR)** - Kurdish (Kurmanji) alphabet
+- **Azerbaijani (AZB)** - Azerbaijani (Azeri) alphabet
+- **Turkmen (TUK)** - Turkmen alphabet
+- **Gilaki (GLK)** - Gilaki alphabet
+- **Dimli (DIQ)** - Dimli alphabet
+
+### Other Languages
+- **Mongolian (MON)** - Mongolian alphabet
+- **Quechua (QXA)** - Quechua alphabet
+- **Hmong (HMN)** - Hmong alphabet
+- **Occitan (LNC)** - Occitan alphabet
+- **Muong (MTQ)** - Muong alphabet
+- **K'iche' (QUC)** - K'iche' alphabet
+- **Malvi (MUP)** - Malvi alphabet
+- **Mewari (MTR)** - Mewari alphabet
+- **Wagdi (WBR)** - Wagdi alphabet
+- **Dong (DOC)** - Dong alphabet
+- **Bouyei (PCC)** - Bouyei alphabet
+- **Zhuang (CCX)** - Zhuang alphabet
+- **Tumbuka (TUM)** - Tumbuka alphabet
+- **Chichewa (NYA)** - Chichewa alphabet
+- **Rwanda (KIN)** - Rwanda alphabet
+- **Zulu (ZUL)** - Zulu alphabet
+- **Xhosa (XHO)** - Xhosa alphabet
+- **Tswana (TSN)** - Tswana alphabet
+- **Sotho (SOT)** - Sotho alphabet
+- **Ndebele (NBL)** - Ndebele alphabet
+- **Swati (SSW)** - Swati alphabet
+- **Tsonga (TSO)** - Tsonga alphabet
+- **Venda (VND)** - Venda alphabet
+- **Bemba (BEM)** - Bemba alphabet
+- **Nandi (KLN)** - Nandi alphabet
+- **Umbundu (UMB)** - Umbundu alphabet
+- **Northern Sotho (NSO)** - Northern Sotho alphabet
+- **Yao (YAO)** - Yao alphabet
+- **Gusii (GUZ)** - Gusii alphabet
+- **Meru (MER)** - Meru alphabet
+- **Wolaytta (WAL)** - Wolaytta alphabet
+- **Luo (LUO)** - Luo alphabet
+- **Sukuma (SUK)** - Sukuma alphabet
+- **Kikongo (KON)** - Kikongo alphabet
+- **Makua (VMW)** - Makua alphabet
+- **Kanuri (KNC)** - Kanuri alphabet
+- **Serer-Sine (SRR)** - Serer-Sine alphabet
+- **Tonga (TOI)** - Tonga alphabet
+- **Luguru (RUF)** - Luguru alphabet
+- **Shona (SNA)** - Shona alphabet
+- **Mewati (WTM)** - Mewati alphabet
 
 ## License
 
