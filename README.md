@@ -229,6 +229,14 @@ We welcome contributions! Please feel free to submit issues, feature requests, o
 
 ### Multi-language Text Recognition
 
+**Task:** Automatically detect and recognize text in multiple languages from a single image without manually specifying the language.
+
+**Use Cases:**
+- Processing international documents with mixed language content
+- Recognizing text in images where the language is unknown
+- Handling multilingual forms, invoices, or certificates
+- Extracting text from social media posts with various languages
+
 ```python
 import aspose as ocr
 
@@ -250,6 +258,15 @@ print("Recognized text:", result[0].recognition_text)
 
 ### Table Structure Recognition
 
+**Task:** Extract structured data from table images while preserving the table layout and relationships between cells.
+
+**Use Cases:**
+- Converting scanned tables to Excel or CSV format
+- Extracting financial data from invoices and receipts
+- Processing forms with tabular data
+- Converting printed reports with tables to digital format
+- Data extraction from business documents and spreadsheets
+
 ```python
 import aspose as ocr
 
@@ -266,10 +283,19 @@ input.add('Data/OCR/table.png')
 
 # Recognize table structure
 result = api.recognize(input, settings)
-
 ```
 
 ### Document Preprocessing with Filters
+
+**Task:** Improve OCR accuracy by applying image preprocessing filters to enhance document quality before recognition.
+
+**Use Cases:**
+- Processing low-quality scanned documents with noise or artifacts
+- Enhancing faded or poorly printed text
+- Improving recognition of documents with low contrast
+- Scaling images for better text detection
+- Cleaning up old or damaged documents before OCR
+- Optimizing images captured with mobile devices
 
 ```python
 import aspose as ocr
@@ -293,6 +319,17 @@ print("Enhanced recognition result:", result[0].recognition_text)
 ```
 
 ### Batch Processing with Progress Tracking
+
+**Task:** Process multiple images efficiently in a single operation and save results in various formats with progress monitoring.
+
+**Use Cases:**
+- Digitizing large archives of scanned documents
+- Processing folders of receipts, invoices, or forms
+- Converting multiple images to searchable PDFs
+- Bulk processing of document collections
+- Automated document workflow processing
+- Creating searchable PDF from scanned materials
+- Exporting results in different formats for different systems
 
 ```python
 import aspose as ocr
